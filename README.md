@@ -21,3 +21,5 @@
         .catch((err) => reject(err))
     )
 ```
+
+### Full documentation: [WooCommerce API ref.](https://woocommerce.github.io/woocommerce-rest-api-docs/)
