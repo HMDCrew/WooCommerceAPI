@@ -1,7 +1,7 @@
 # WooCommerceAPI for React Native 
     copy the WooCommerceAPI.js on your project
 
-## install dependencies:
+## Install dependencies:
     npm i crypto-js oauth-1.0a
 
 ## Library usage:
