@@ -1,0 +1,11 @@
+{
+  "name": "woocommerceapi",
+  "version": "1.0.0",
+  "main": "WooCommerceAPI.js",
+  "dependencies": {
+    "react": "18.0.0",
+    "crypto-js": "^4.1.1",
+    "oauth-1.0a": "^2.2.6"
+  },
+  "private": true
+}
